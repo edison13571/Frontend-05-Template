@@ -54,7 +54,7 @@
 图灵完备性：
  - 命令式——图灵机
     - goto
-    - if和while
+    - if和while 
  - 声明式——lambda
     - 递归
     
