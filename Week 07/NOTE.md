@@ -1,1 +1,2 @@
 学习笔记
+这周讲了js的语法，从Expressions、Statement到事件循环和环境等。
